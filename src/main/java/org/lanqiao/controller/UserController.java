@@ -134,6 +134,7 @@ public int addUser(User user){
     }
 *//*
     //更新用户
+
   @RequestMapping("/up.do")
   @ResponseBody
   public int updateUser(@RequestBody User user)
